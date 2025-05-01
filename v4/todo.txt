@@ -1,0 +1,26 @@
+- ajouter la gestion des logs
+    => gérer l'affichage de la date une fois par jour éventuellement puis logs
+    sur les heures ; ou alors un log par jour ?!
+- embellir la mise en forme
+- embellir les commentaires
+- harmoniser la langue
+- rajouter le suivi des trades avec statistiques et profit total
+- ajouter la possibilité de freeze les trades à des heures prédéfinies
+- stocker les bougies d'archives dans un pkl pour pouvoir les visionner
+
+Stratégies à tester :
+- trouver des SL/TP pertinents en gardant le point d'entrée
+- confirmer le signal d'entrée avec le RSI ou le MACD
+- utiliser des EMA pour les niveaux de résistance ou support
+- utiliser un autre indicateur (EMA plus longue ... autre ??) pour détecter un
+marché en range et éviter les trades, ou alors ne prendre que les BUY en
+tendance haussière ou les SELL en tendance baissière
+- essayer en devises multiples
+- intégrer volume, liquidité, volatilité du marché
+
+- STRAT WHSI : signal de départ sur croisement des EMA comme strat de base,
+mais avec 2e condition : RSI > 80 ou < 20 ; attente du premier repli vers du
+prix vers l'EMA rapide et achat ; ensuite SL placé à l'EMA lente
+
+- strat T-line-scalping avec bougies Heikin-Ashi
+- test voir si git marche bien

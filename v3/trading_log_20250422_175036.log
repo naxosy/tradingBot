@@ -1,0 +1,318 @@
+22/04 - 17h50 - INFO - Lancement de l'application
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:06:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15063 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15063 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:07:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.15063
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15064 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15064 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:08:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.15064
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15060 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15060 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:09:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.15060
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15059 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15059 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:10:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.15059
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15056 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15056 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:11:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.15056
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15049 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15049 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:12:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.15049
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15043 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15043 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:13:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.15043
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15036 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15036 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:14:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.15036
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15024 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15024 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:15:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.15024
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15013 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15013 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:16:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.15013
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15002 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.15002 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:17:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.15002
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14993 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14993 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:18:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14993
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14990 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14990 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:19:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14990
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14989 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14989 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:20:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14989
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14995 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14995 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:21:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14995
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14991 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14991 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:22:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14991
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14989 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14989 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:23:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14989
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14990 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14990 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:24:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14990
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14990 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14990 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:25:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14990
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14990 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14990 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:26:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14990
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14988 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14988 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:27:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14988
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - DEBUG - Update order généré : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14985 et le TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Mise à jour de position simulée : Ordre UPDATE pour le trade n°SIM-1, on passe le SL à 1.14985 et le TP à 1.14922
+22/04 - 17h50 - DEBUG - Open order généré : Ordre OPEN  position SELL de 1.0 lots avec SL à 1.14978 et TP à 1.14922
+22/04 - 17h50 - INFO - (SIM) Ouverture de position simulée : Ordre OPEN  position SELL de 1.0 lots avec SL à 1.14978 et TP à 1.14922
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:28:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:29:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:30:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:31:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:32:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:33:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:34:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:35:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:36:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:37:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:38:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:39:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:40:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:41:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:42:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:43:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:44:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:45:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:46:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:47:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:48:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:49:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:50:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:51:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:52:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:53:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:54:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:55:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:56:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
+22/04 - 17h50 - DEBUG - ✅ Nouvelle ligne ajoutée : 2025-04-21 19:57:00
+22/04 - 17h50 - INFO - (SIM) Récupération des trades ouverts depuis le fichier .pkl
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:48:57.070209 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14985
+22/04 - 17h50 - INFO - (SIM) Trade simulé trouvé ouvert -> Trade 0 (SELL 1.0) ouvert à 2025-04-22 17:50:38.728477 : entrée à 0.00000 avec un TP à 1.14922 et un SL à 1.14978
+22/04 - 17h50 - DEBUG - (SIM) Données de compte simulées envoyées.
+22/04 - 17h50 - ERROR - ERREUR : plus d'un trade ouvert
