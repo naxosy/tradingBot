@@ -1,11 +1,11 @@
 from trading_ig import IGService
 import pandas as pd
 
-username = "naxosy_demo"
-password = "$$deR69me5"
-api_key = "9744350976c271ef25e9c241338c1695f23a1e91"
+username =
+password =
+api_key =
 acc_type = "demo"
-account_id = "Z5YW5L"
+account_id =
 
 epic = "CS.D.EURUSD.MINI.IP"
 resolution = "1Min"

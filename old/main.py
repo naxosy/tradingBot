@@ -13,12 +13,6 @@ def currentState(candle) :
     result = ''.join(key for key, value in sorted(prices.items(), key=lambda item: item[1]))
     return result
 
-username = "naxosy_demo"
-password = "$$deR69me5"
-api_key = "e7f450cc5e622196d50480a379d81b39504ef087"
-acc_type = "demo"
-account_id = "Z5YW5L"
-
 logging.basicConfig(level=logging.INFO)
 
 now = datetime.now()

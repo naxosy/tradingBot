@@ -3,11 +3,6 @@ from trading_ig import IGService
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-username = "naxosy_demo"
-password = "$$deR69me5"
-api_key = "af500f4cc415bc83819895ebf3f96469bd1ec1b0"
-acc_type = "demo"
-account_id = "Z5YW5L"
 
 ig_service = IGService(username, password, api_key, acc_type, acc_number=account_id)
 ig_service.create_session(version='3')

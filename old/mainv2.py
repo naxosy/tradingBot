@@ -9,11 +9,6 @@ import numpy as np
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-username = "naxosy_demo"
-password = "$$deR69me5"
-api_key = "af500f4cc415bc83819895ebf3f96469bd1ec1b0"
-acc_type = "demo"
-account_id = "Z5YW5L"
 
 logging.basicConfig(level=logging.INFO)
 
